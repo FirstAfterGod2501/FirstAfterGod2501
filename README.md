@@ -32,6 +32,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FirstAfterGod2501&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirstAfterGod2501&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
 
