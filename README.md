@@ -10,6 +10,7 @@
 ###### **Wow, you're visitor number**
 
 <img src="https://profile-counter.glitch.me/FirstAfterGod2501/count.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirstAfterGod2501&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 
